@@ -1,6 +1,6 @@
 {
   "name": "react-simple-readmore",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "description": "Simple React Readmore – A React Component providing read more(ellipsis) functionality.",
   "main": "build/index.js",
   "scripts": {
